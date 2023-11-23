@@ -28,4 +28,3 @@ void draw(){
   background(bgcolor, 255, 255);
  image(logo, 0, 0);
 }
-
